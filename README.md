@@ -20,6 +20,7 @@ I dealt with different domains: resale/food delivery/TV-cinema/logistics/embedde
 - Amplitude/MyTracker/Яндекс.Metrica
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirkaDev)](https://github.com/anuraghazra/github-readme-stats)
+
 ✔︎ Education:
 
 Master's degree in Measuring information technologies
