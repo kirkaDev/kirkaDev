@@ -19,10 +19,7 @@ I dealt with different domains: resale/food delivery/TV-cinema/logistics/embedde
 - Device owner/device admin mode (kiosk mode);
 - Amplitude/MyTracker/Яндекс.Metrica
 
-
-
-[![magickasoft's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kirkaDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirkaDev)](https://github.com/anuraghazra/github-readme-stats)
 ✔︎ Education:
 
 Master's degree in Measuring information technologies
